@@ -10,10 +10,10 @@ window.addEventListener('DOMContentLoaded', event => {
     }
     if (window.scrollY === 0) {
         navbarCollapsible.classList.remove('navbar-shrink');
-        img.src = "/assets/img/Capturar.png"; // Altera para logo padrão
+        img.src = "https://i.ibb.co/XrhzyQTP/Logo-Vaga-Ja.jpg"; // Altera para logo padrão
     } else {
         navbarCollapsible.classList.add('navbar-shrink');
-        img.src = "/assets/img/CapturarFundo.png"; // Altera para logo fundo
+        img.src = "https://i.ibb.co/pDg9Rr2/Logo-Vaga-Ja-Sem-fundo.png"; // Altera para logo fundo
     }
 };
 
