@@ -96,7 +96,6 @@
   border-radius: 20%;
 }
 
-.apresentation{}
 
 #team{
   text-align: center;
@@ -10954,7 +10953,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://i.ibb.co/Z6mD0w6W/vaga-Ja-Banner.png");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("/assets/img/vagaJaBanner.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
